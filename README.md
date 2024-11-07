@@ -30,8 +30,8 @@ The dataset is taken from the open repository that is the Kaggle Website. The da
 
 ## Recommended Measures:
 Strategies that can be implemented based on Data Insights:
-- Targeted Promotions for Age Groups: Analyze purchase patterns of younger and older demographics. Offer targeted discounts or promotions on specific products they might find appealing.
-- Upsell and Cross-sell Opportunities: Since clothing and electronics are top sellers, use targeted campaigns to suggest complementary products (e.g., accessories for clothing, extended warranties or cleaning supplies for electronics).
-- Seasonal Marketing Campaigns: Capitalize on peak sales periods by launching exciting marketing campaigns and promotions during the holiday season (October-December). Consider pre-holiday sales or early access for loyal customers.
-- Optimize Discounts for Higher Revenue: Analyze which discounts are most effective at driving sales. Focus on those types of discounts in future promotions.
-- Targeted Geographic Marketing: Increase focus on metro cities with high sales potential. Offer local promotions or highlight convenient delivery options in these areas.
+- **Targeted Promotions for Age Groups:** Analyze purchase patterns of younger and older demographics. Offer targeted discounts or promotions on specific products they might find appealing.
+- **Upsell and Cross-sell Opportunities:** Since clothing and electronics are top sellers, use targeted campaigns to suggest complementary products (e.g., accessories for clothing, extended warranties or cleaning supplies for electronics).
+- **Seasonal Marketing Campaigns:** Capitalize on peak sales periods by launching exciting marketing campaigns and promotions during the holiday season (October-December). Consider pre-holiday sales or early access for loyal customers.
+- **Optimize Discounts for Higher Revenue:** Analyze which discounts are most effective at driving sales. Focus on those types of discounts in future promotions.
+- **Targeted Geographic Marketing:** Increase focus on metro cities with high sales potential. Offer local promotions or highlight convenient delivery options in these areas.
